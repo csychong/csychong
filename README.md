@@ -1,4 +1,8 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Athul.</h2>
+<p align="center">
+  <a href="https://blog.athulcyriac.in">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
+</p>
 
 <!--
 **csychong/csychong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=<username>&theme=gotham&show_icons=true&hide_border=true" /> </div>
